@@ -24,13 +24,11 @@ Una sencilla aplicación web que te permite crear una lista de elementos y luego
 
 4.  **Añade más elementos:** Puedes repetir los pasos 2 y 3 cuantas veces quieras para añadir todos los elementos a tu lista.
 
-    ![Múltiples elementos en la lista](assets/image_3.png)
-
 5.  **Sortear un elemento:** Una vez que tengas tu lista completa, haz clic en el botón **"Sortear elemento"** (el botón naranja grande).
 
 6.  **Ver el resultado:** Aparecerá una ventana emergente mostrando el elemento que fue seleccionado al azar de tu lista.
 
-    ![Resultado del sorteo](assets/image_4.png)
+    ![Resultado del sorteo](assets/image_3.png)
 
 ## Estructura del Proyecto
 
