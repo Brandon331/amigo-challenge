@@ -1,7 +1,7 @@
 # 🧠 Research Agent - Multi-Agent Knowledge Synthesis
-<p align="center">
-![IMG-20251109-WA0012 1](https://github.com/user-attachments/assets/2b93a1b4-c626-4839-8a12-9d71230fc9fe)
-</p>
+
+   ![IMG-20251109-WA0012 1](https://github.com/user-attachments/assets/2b93a1b4-c626-4839-8a12-9d71230fc9fe)
+
 
 This project is a multi-agent AI system designed to accelerate research. Instead of just summarizing text, this system uses a team of specialized AI agents that actively read, analyze, and *debate* knowledge sources (PDFs, arXiv, Wikipedia) to generate collective insights.
 
