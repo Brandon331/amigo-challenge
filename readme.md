@@ -106,10 +106,15 @@ Sigue estos pasos para correr el proyecto en tu máquina local.
 
 Este proyecto fue desarrollado por un equipo de analistas e ingenieros:
 
-* **Rodrigo (Ingeniero de Conocimiento y Visualización):** Soy Rodrigo, estoy en tercer semestre de la licenciatura en informática en la UNAM, y participé en este proyecto como Ingeniero de Conocimiento y Visualización. Mi rol fue construir el "cerebro" del sistema: desarrollé el pipeline de Ingestión de Conocimiento que lee y analiza PDFs complejos, transformando el texto para extraer automáticamente los conceptos clave que los agentes necesitan para razonar. Además, diseñé y programé el mapa conceptual interactivo, la interfaz visual principal. Este mapa no solo muestra los hallazgos, sino que también hace "verificable" el razonamiento de los agentes, conectando los fragmentos de sus discusiones directamente a los conceptos en la pantalla.
-* **Brandon** (Analista Científico Matemático)
-* **Esve** (Analista Científico Físico)
-* **Emmanuel** (Analista Científico General)
+* **Rodrigo** Participé en este proyecto como Ingeniero de Conocimiento y Visualización. Mi rol fue construir el "cerebro" del sistema: desarrollé el pipeline de Ingestión de Conocimiento que lee y analiza PDFs complejos, transformando el texto para extraer automáticamente los conceptos clave que los agentes necesitan para razonar. Además, diseñé y programé el mapa conceptual interactivo, la interfaz visual principal. Este mapa no solo muestra los hallazgos, sino que también hace "verificable" el razonamiento de los agentes, conectando los fragmentos de sus discusiones directamente a los conceptos en la pantalla.
+
+* **Brandon** Desarrollé un sistema inteligente con FastAPI y GPT-4o-mini que permite la búsqueda, análisis y síntesis automática de información científica.
+Integra agentes colaborativos que discuten y generan conclusiones basadas en fuentes como arXiv, Wikipedia o PDF.
+El sistema produce reportes científicos en PDF, combinando IA generativa y análisis semántico avanzado.
+
+* **Esve** 
+
+* **Emmanuel** 
 
 ## 📄 Licencia
 
