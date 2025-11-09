@@ -113,7 +113,7 @@ This project was developed by a team of analysts and engineers:
 
 * **Brandon**: I developed an intelligent system with FastAPI and GPT-4o-mini that enables automatic search, analysis, and synthesis of scientific information. It integrates collaborative agents that discuss and generate conclusions based on sources like arXiv, Wikipedia, or PDFs. The system produces scientific reports in PDF, combining generative AI and advanced semantic analysis.
 * **Esve**: Frontend architect behind Zan-AI's interface—I engineered responsive component systems, orchestrated intuitive user workflows, and designed scalable architecture that transforms cutting-edge AI research into seamless, accessible experiences.
-* **Emmanuel** (General Scientific Analyst)
+* **Emmanuel**: Dedicated developer specializing in AI integration and backend optimization for the Zan-AI research platform.
 
 ## 📄 License
 
