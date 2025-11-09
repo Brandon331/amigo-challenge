@@ -1,6 +1,7 @@
 # 🧠 Research Agent - Multi-Agent Knowledge Synthesis
-
-  ![Imagen de WhatsApp 2025-11-09 a las 02 51 25_ab34977b](https://github.com/user-attachments/assets/02605dc6-1e47-4016-ab75-b9a1d6fa2e87)
+<p align="center">
+![IMG-20251109-WA0012 1](https://github.com/user-attachments/assets/2b93a1b4-c626-4839-8a12-9d71230fc9fe)
+</p>
 
 This project is a multi-agent AI system designed to accelerate research. Instead of just summarizing text, this system uses a team of specialized AI agents that actively read, analyze, and *debate* knowledge sources (PDFs, arXiv, Wikipedia) to generate collective insights.
 
@@ -111,7 +112,7 @@ This project was developed by a team of analysts and engineers:
 * **Rodrigo**: I participated in this project as the Knowledge and Visualization Engineer. My role was to build the system's "brain": I developed the Knowledge Ingestion pipeline that reads and analyzes complex PDFs, transforming the text to automatically extract the key concepts the agents need to reason. Additionally, I designed and programmed the interactive concept map, the main visual interface. This map not only displays the findings but also makes the agents' reasoning "verifiable" by directly connecting snippets of their discussions to the concepts on the screen.
 
 * **Brandon**: I developed an intelligent system with FastAPI and GPT-4o-mini that enables automatic search, analysis, and synthesis of scientific information. It integrates collaborative agents that discuss and generate conclusions based on sources like arXiv, Wikipedia, or PDFs. The system produces scientific reports in PDF, combining generative AI and advanced semantic analysis.
-* **Esve** (Physical Scientific Analyst)
+* **Esve**: Frontend architect behind Zan-AI's interface—I engineered responsive component systems, orchestrated intuitive user workflows, and designed scalable architecture that transforms cutting-edge AI research into seamless, accessible experiences.
 * **Emmanuel** (General Scientific Analyst)
 
 ## 📄 License
